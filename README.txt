@@ -16,7 +16,7 @@ REQUEST ADMINISTRATOR PRIVILGES   true
 REQUEST USER PRIVILGES            true
 FILE VERSION                      1.0
 ====================================================================
-		                       [ DESCRIPCTION ]
+		          [ DESCRIPCTION ]
 ====================================================================
 [*] Introduction:
 ====================================================================
